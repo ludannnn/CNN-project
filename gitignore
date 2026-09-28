@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+environment.yml
+
+# Generated weight snippets (reproducible by running the train_model*.py scripts)
+model_snippet*.py
+historyweights.txt
+*.pt
+*.pth
+
+# Course-provided material
+utils.py
+tutorial.ipynb
+capstone-project.ipynb
+
+# Data and IDE
+data/
+.vscode/
+.idea/
+.DS_Store
